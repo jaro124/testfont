@@ -2,7 +2,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        oswald: ['Oswald Variable', 'sans-serif'],
+        anton: ['Anton', 'sans-serif'],
       },
     },
   },
